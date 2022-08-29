@@ -2,8 +2,12 @@ header {
     background-color: lightblue;
     background-image: url("./img/pattern.png");
     height: 150px;
+    position: relative;
 }
 
-img {
-    
+header > img {
+    position: absolute;
+    bottom: 10px;
+    left: 5px;
 }
+
