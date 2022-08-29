@@ -2,8 +2,13 @@ header {
     background-color: #66c2ff;
     background-image: url("./img/pattern.png");
     background-size: contain;
+}
+
+header > img {
     height: 100px;
-    position: relative;
+    padding-top: 40px;
+    margin-left: 10px;
+    
 }
 
 main {
@@ -11,12 +16,6 @@ main {
     margin: auto;
     text-align: justify;
     text-justify: inter-word;
-}
-
-header > img {
-    position: absolute;
-    bottom: 10px;
-    left: 5px;
 }
 
 main > section {
