@@ -1,7 +1,8 @@
 header {
     background-color: #66c2ff;
     background-image: url("./img/pattern.png");
-    height: 150px;
+    background-size: contain;
+    height: 100px;
     position: relative;
 }
 
