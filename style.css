@@ -33,3 +33,11 @@ a {
     color: gray;
     font-size: 13px;
 }
+
+#images {
+    padding-top: 20px;;
+}
+
+#description {
+    font-size: 15px;
+}
